@@ -20,3 +20,14 @@ Paris (France) and Besancon Planoise (France):
 <img src="go4_fig4_nya.png">
 <img src="go4_fig4_paris.png">
 <img src="go4_fig4_planoise.png">
+
+After projection on a background map:
+
+<img src="go4_fig4_paris_layout.png">
+
+The case of Ny Alesund is complemented with the comparison with monostatic reflection maps from
+Sentinel1 data fetched from the ESA web site:
+
+<img src="go4_fig4_nya_layout.png">
+<img src="go4_fig4_nya_layout_S1.png">
+<img src="go4_fig4_nya_S1.png">
