@@ -1,4 +1,4 @@
-close all;
+close all;                          % Sentinel1 PBR processing, by W. Feng, J.-M Friedt, P. Wan
 % clear;
 pkg load signal
 

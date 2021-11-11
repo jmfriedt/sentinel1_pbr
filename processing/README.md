@@ -8,7 +8,7 @@ from Sentinel1 are visible, and tune the parameters ll. 13-15 accordingly. I usu
 solmax variable for future reference if needed
 * having saved ref1 and ref2 (reference and suveillance datasets) from go1.m, run go4. After setting
 the satellite elevation (l.6) and selecting a single pulse out of the ref datasets (ll.43-44), the
-processing should be automated. When selecting the pulse, start at a high enough signal to noise
+processing should be automated. When selecting the pulse range (ll.43-44), start at a high enough signal to noise
 ratio, otherwise with too poor a SNR (e.g. starting at the first pulse notch) will make the
 threshold detection of l.63 fail (we assume the received pulse to be at least twice as strong as
 the background noise).
