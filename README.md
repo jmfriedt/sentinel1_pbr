@@ -25,3 +25,6 @@ values have been extracted from decoding the raw Sentinel1 data as explained at 
 <img src="figures/DSC_0641ann_small.png">
 <img src="figures/go4_fig4_first_pulse.png">
 <img src="figures/go4_layout_with.png">
+
+Red arrows have been added to highlight the excellent match between detected echoes and geographical features seen
+on the OpenStreeMap background chart.
