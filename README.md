@@ -22,6 +22,6 @@ the provided PRI (l.32) is credible. The first first options are from Extra Wide
 from Interferometric Wide (IW) swaths. The program should quit with an error if not PRI is found: these PRI
 values have been extracted from decoding the raw Sentinel1 data as explained at https://github.com/jmfriedt/sentinel1_level0
 
-<img src="DSC_0641ann_small.png">
-<img src="go4_fig4_first_pulse.png">
-<img src="go4_layout_with.png">
+<img src="figures/DSC_0641ann_small.png">
+<img src="figures/go4_fig4_first_pulse.png">
+<img src="figures/go4_layout_with.png">
