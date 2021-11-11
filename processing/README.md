@@ -13,7 +13,7 @@ ratio, otherwise with too poor a SNR (e.g. starting at the first pulse notch) wi
 threshold detection of l.63 fail (we assume the received pulse to be at least twice as strong as
 the background noise).
 
-ll. 135-140 might not look intuitive at first. They are the matrix implmentation of the analytical
+ll. 135-140 of go4.m might not look intuitive at first. They are the matrix implmentation of the analytical
 solution to the projection from the satellite orbit-receiver plane to the ground plane using the quite
 amazing equation provided by Wolfram Alpha:
 
