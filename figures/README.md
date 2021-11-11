@@ -21,9 +21,11 @@ Paris (France) and Besancon Planoise (France):
 <img src="go4_fig4_paris.png">
 <img src="go4_fig4_planoise.png">
 
-After projection on a background map:
+After projection on a background map in Paris, Clermont-Ferrand and Besncon (Planoise), all located in France:
 
 <img src="go4_fig4_paris_layout.png">
+<img src="go4_fig4_clermont_layout.png">
+<img src="go4_fig4_planoise_layout.png">
 
 The case of Ny Alesund is complemented with the comparison with monostatic reflection maps from
 Sentinel1 data fetched from the ESA web site:
