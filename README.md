@@ -18,7 +18,7 @@ on the ground plane. Some tuning is needed for each execution of the script:
   * select the relevant pulse amongst res1 and res2, as shown ll.41-44 of the script
   * define the elevation angle as provided for example on the Heavens Above web site, as shown l.6 of the script
   * we attempt to identify the Pulse Repetition Interval by autocorrelating the reference signal: make sure that
-the provided PRI (l.32) is credible. The first first options are from Extra Wide (EW) swaths, the last three are
+the provided PRI (l.32) is credible. The first options are from Extra Wide (EW) swaths, the last three are
 from Interferometric Wide (IW) swaths. The program should quit with an error if not PRI is found: these PRI
 values have been extracted from decoding the raw Sentinel1 data as explained at https://github.com/jmfriedt/sentinel1_level0
 
@@ -31,4 +31,3 @@ on the OpenStreeMap background chart.
 
 This github repository provides the supporting material to "W. Feng, J.-M. Friedt, P. Wan, SDR-implemented passive 
 bistatic SAR system using Sentinel-1 signal and its experiment results, submitted MDPI Remote Sensing (2021)"
-"
