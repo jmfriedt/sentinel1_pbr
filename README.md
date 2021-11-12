@@ -16,7 +16,7 @@ signals where the strong pulses from Sentinel1 are visible. These should last 5 
 ref2.mat) have been cropped, execute processing/go4.m for range/azimuth compression and projecting
 on the ground plane. Some tuning is needed for each execution of the script: 
   * select the relevant pulse amongst res1 and res2, as shown ll.41-44 of the script
-  * define the elevation angle as provided for example on the [https://www.heavens-above.com/](Heavens Above web) site, as shown l.6 of the script
+  * define the elevation angle as provided for example on the [Heavens Above](https://www.heavens-above.com/) web site, as shown l.6 of the script
   * we attempt to identify the Pulse Repetition Interval by autocorrelating the reference signal: make sure that
 the provided PRI (l.32) is credible. The first options are from Extra Wide (EW) swaths, the last three are
 from Interferometric Wide (IW) swaths. The program should quit with an error if not PRI is found: these PRI
