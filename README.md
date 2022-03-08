@@ -30,4 +30,5 @@ Red arrows have been added to highlight the excellent match between detected ech
 on the OpenStreeMap background chart.
 
 This github repository provides the supporting material to "W. Feng, J.-M. Friedt, P. Wan, SDR-implemented passive 
-bistatic SAR system using Sentinel-1 signal and its experiment results, submitted MDPI Remote Sensing (2021)"
+bistatic SAR system using Sentinel-1 signal and its experiment results, MDPI Remote Sensing (2021)" at 
+https://www.mdpi.com/2072-4292/14/1/221
